@@ -1,0 +1,1 @@
+./opennlp.bat LemmatizerTrainerME -model en-lemmatizer.bin -lang en -data en-lemmatizer.dict -encoding UTF-8
